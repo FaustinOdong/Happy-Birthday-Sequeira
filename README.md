@@ -1,6 +1,4 @@
 
-# Happy-Birthday-Sequeira
-<!DOCTYPE html>
 <html>
 <body>
 
